@@ -1,0 +1,3 @@
+[submodule "neptun_api"]
+	path = neptun_api
+	url = https://github.com/neptun-extension-project/neptun_api
